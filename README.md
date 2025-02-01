@@ -64,3 +64,9 @@
 ---
 
 ✨ **Fun Fact:** I love analyzing datasets that inspire impactful business decisions and spark innovation!  
+
+---
+
+## 👁️ Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=mahalaxmi111)
